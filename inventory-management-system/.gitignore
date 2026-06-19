@@ -1,0 +1,7 @@
+.venv
+.env
+frontend\.env.local
+frontend\.next
+backend\.env
+frontend\node_modules
+frontend\.gitignore

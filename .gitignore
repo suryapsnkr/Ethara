@@ -1,0 +1,7 @@
+inventory-management-system\.venv
+inventory-management-system\.env
+inventory-management-system\backend\.env
+inventory-management-system\frontend\.next
+inventory-management-system\frontend\.env.local
+inventory-management-system\frontend\node_modules
+inventory-management-system\frontend\.gitignore
